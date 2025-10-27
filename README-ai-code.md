@@ -830,9 +830,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - 💼 GitHub: [@ShivSingh-17](https://github.com/ShivSingh-17)
 - 📧 Email: [Add your email]
-- 💼 LinkedIn: [Add your LinkedIn profile]
-- 🐦 Twitter: [Add your Twitter handle]
-- 🌐 Portfolio: [Add your portfolio website]
+- 💼 LinkedIn: [https://www.linkedin.com/in/shiv-prakash-singh-624091267/]
+- 🌐 Portfolio: []
 
 **Project Links:**
 - Repository: [https://github.com/ShivSingh-17/Ai-Code-Generator](https://github.com/ShivSingh-17/Ai-Code-Generator)

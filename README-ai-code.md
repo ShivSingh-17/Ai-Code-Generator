@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/868b1bc9-217b-49ab-822c-5c90fa2fa404
 # AI Code Generator 🤖💻
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -83,17 +85,21 @@
 > **Note**: If the above link shows "app is sleeping", click the button to wake it up. Free tier apps on Streamlit Cloud sleep after inactivity.
 
 ### Demo Video
-[Watch Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) *(Add your demo video link)*
+[Watch Demo Video](
+
+https://github.com/user-attachments/assets/420770f2-cb42-41b8-a80c-724f5acf66a0
+
+) 
 
 ### Screenshots
 
 #### Main Interface
-![Main Interface](images/main-interface.png)
-*The clean, intuitive chat interface for code generation*
+![Main Interface](![Interface-img](https://github.com/user-attachments/assets/6f1aca56-d0cc-4160-9218-684ae778a419))
+
 
 #### Code Output Example
-![Code Output](images/code-output.png)
-*Generated code with syntax highlighting and explanations*
+![Code Output](![Output_img](https://github.com/user-attachments/assets/d740b7ea-7641-4172-8d17-3cb5f58d698f))
+
 
 ---
 
@@ -829,7 +835,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Shiv Singh**
 
 - 💼 GitHub: [@ShivSingh-17](https://github.com/ShivSingh-17)
-- 📧 Email: [Add your email]
+- 📧 Email: [shiva.singh170304@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/shiv-prakash-singh-624091267/]
 - 🌐 Portfolio: []
 
